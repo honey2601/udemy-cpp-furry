@@ -1,0 +1,9 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "uncrustify.configPath.linux": ".vscode/uncrustify.cfg",
+    "editor.defaultFormatter": "zachflower.uncrustify",
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}
